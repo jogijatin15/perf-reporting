@@ -1,0 +1,14 @@
+version: '2'
+services:
+  grafana:
+    image: grafana/grafana
+    ports:
+     - "3000:3000"
+
+  influxdb:
+    build: ./docker-influxdb/
+    image: influx/influxd:jmeter
+    ports:
+      - "8083:8083"
+      - "8086:8086"
+      - "2003:2003"
