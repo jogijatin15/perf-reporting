@@ -17,7 +17,7 @@ mvn verify
 Hit the below URLs to open the tools running on containers
 ```
 Jmeter:				http://localhost:2003
-InfluxDB Admin:		http://localhost:8083
+InfluxDB Admin:			http://localhost:8083
 Grafana:			http://localhost:3000 [Username & Password: admin/admin]
 ```
 
