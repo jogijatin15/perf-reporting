@@ -475,11 +475,11 @@
               </elementProp>
             </collectionProp>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">52.42.45.139</stringProp>
-          <stringProp name="HTTPSampler.port">7443</stringProp>
+          <stringProp name="HTTPSampler.domain">34.195.187.107</stringProp>
+          <stringProp name="HTTPSampler.port">8089</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/RetrievePartyRelationships</stringProp>
+          <stringProp name="HTTPSampler.path">/LocationDetails</stringProp>
           <stringProp name="HTTPSampler.method">POST</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
